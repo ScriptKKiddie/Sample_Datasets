@@ -1,10 +1,10 @@
-executiveData = {
-  "name":"Shobhit Sharma",
-  "age":20,
-  "com": {
-    "com1":"OneYear",
-    "com2":"Technical 0812",
-    "com3":"LEARN. TEACH. GROW."
-    "com4":"The ThingsPlanet"
-  }
- } 
+{
+   "name":"Shobhit Sharma",
+   "age":20,
+   "com":{
+      "com1":"OneYear",
+      "com2":"Technical 0812",
+      "com3":"LEARN. TEACH. GROW.",
+      "com4":"The ThingsPlanet"
+   }
+}
